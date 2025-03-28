@@ -1,7 +1,7 @@
 {
   "name": "me.tokenizer",
   "version": "1.0.0",
-  "description": "Ultra secure tokenizer system with military-grade security",
+  "description": "Mon projet de tokenizer",
   "main": "dist/core/tokenizer.js",
   "scripts": {
     "build": "tsc",
